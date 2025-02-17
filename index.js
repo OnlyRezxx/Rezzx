@@ -848,6 +848,7 @@ permen.question('\x1b[1m\x1b[31m\x1b[47mroot-tayo\x1b[0m \x1b[1m\x1b[31m\x1b[47m
 • ai           │ Chat With Ai
 • credits      │ show creator of these tools
 • cls          │ clear terminal
+mohon untuk jangan di jual ini gratisan by irfa 
 `);
     sigma();
   } else if (command === 'cekmethodes') {
@@ -864,7 +865,7 @@ permen.question('\x1b[1m\x1b[31m\x1b[47mroot-tayo\x1b[0m \x1b[1m\x1b[31m\x1b[47m
  thunder    │ Layer7 [BASIC] Attack Url [Best Methods]      │  300
  quantum    │ Layer7 [BASIC Attack Url [Best Methods]       │  300
  sky        │ Layer7 [BASIC] Attack Url [Secure Connection  │  300
- glory      │ Layer7 [BASIC] Attack Url [Secure Connection] │  300
+ glory      │  updet bos ku 🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶🥶│  300
  bomb       │ Layer7 [VIP] Attack Url [Best Methods]        │  300
  ninja      │ Layer7 [VIP] Attack Url [Bypasser Methods]    │  300
  rape       │ Layer7 [VIP] Attack Url [Best Methods]        │  300
@@ -873,6 +874,9 @@ permen.question('\x1b[1m\x1b[31m\x1b[47mroot-tayo\x1b[0m \x1b[1m\x1b[31m\x1b[47m
  h2         │ Layer7 [VIP] Attack Url [Best Methods]       │  300
  cf         │ Layer7 [VIP] Attack Url [Best Bypasser]       │  300
          lebih baik jangan spam jagalah HP anda dan penel 😵‍💫😶‍🌫
+strike     | updett bos ku ☠️☠️☠️☠️☠️☠️
+h2        | updet bos ku 🥶 kusus sch
+
 `);
     sigma();
         } else if (command === 'srvmenu') {
@@ -892,9 +896,14 @@ permen.question('\x1b[1m\x1b[31m\x1b[47mroot-tayo\x1b[0m \x1b[1m\x1b[31m\x1b[47m
 • Raw            || - Glory (VIP)
 • Cibi           || - Gloryv(1,2,3)
          tembahan  methods
-•bh              || - terbaru behind-cloudflare
-•strike.js       || - update dengan lebih gocor
+•bh              || - updet 
+•strike           || - update dengan lebih gocor
 •panel           || update hanya ddos panel
+•glory            || fitur paling gacor 🤪🤪
+•sch              || kusus situs sch 
+•overload        || kusus buat loadin
+Note : jangan berharap tinggi seperti angkasa karna free jika tembus 1 juta req bersukurlah
+
        ingat ini c2 api oky 😵‍💫😵‍💫
 `);
     sigma();
